@@ -1,0 +1,1 @@
+Colored Box custom widget
